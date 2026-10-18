@@ -25,3 +25,38 @@
 | 100M+ | 🎟️ 4 |
 
 **⚔️ More VS points = better odds!**
+
+## 📅 Train & VIP Plan (Weekly Overview)
+
+- **Monday**
+  - 🚆 **Train Driver:** R4/R5 (Rotate)
+  - 👑 **VIP:** R3 Performance Wheel
+
+- **Tuesday**
+  - 🏆 **Gold League**
+    - 🚆 **Train Driver:** VS Top Scorer
+    - 👑 **VIP:** Tech Spender MVP
+  - 💎 **Diamond League**
+    - 🚆 **Train Driver:** VS Top Scorer (All-Out Week) / Tech Spender MVP (Save Week)
+    - 👑 **VIP:** R3 Performance Wheel
+
+- **Wednesday**
+  - 🚆 **Train Driver:** R4/R5 (Rotate)
+  - 👑 **VIP:** R3 Performance Wheel
+
+- **Thursday**
+  - 🚆 **Train Driver:** Deserving Player (Weekly Performance)
+  - 👑 **VIP:** R4/R5
+
+- **Friday**
+  - 🚆 **Train Driver:** Deserving Player (Weekly Performance)
+  - 👑 **VIP:** R4/R5
+
+- **Saturday**
+  - 🚆 **Train Driver:** DS-MVP (Rotate)
+  - 👑 **VIP:** DS-MVP (Rotate)
+
+- **Sunday**
+  - 🚆 **Train Driver:** R4 (Rotate)
+  - 👑 **VIP:** R4/R5
+
