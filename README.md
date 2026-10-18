@@ -4,7 +4,7 @@
 
 - Each player can be **Train Driver once** every 4 weeks.
 - Each player can be **VIP once** every 4 weeks.
-- If a player breaks this rule, the next eligible player takes their spot.
+- If a player falls under the ban, the next eligible player takes their spot.
 
 ## 🏆 R3 Requirements
 
