@@ -11,7 +11,7 @@
 - **Daily VS:** 7.2M minimum
 - **Weekly VS:** 43.2M minimum
 
-## 🎡 VS Wheel Entries
+## 🎡 VIP Performance Wheel Entries
 
 - Players are picked randomly by an automated wheel.
 - Your weekly VS score determines how many entries you get.
@@ -19,9 +19,9 @@
 
 | Weekly VS Score | Wheel Entries |
 |---|:---:|
-| 40M–50M | 🎟️ 1 |
-| 50M–70M | 🎟️ 2 |
-| 70M–90M | 🎟️ 3 |
-| 90M+ | 🎟️ 4 |
+| 43.2M–60M | 🎟️ 1 |
+| 60M–80M | 🎟️ 2 |
+| 80M–100M | 🎟️ 3 |
+| 100M+ | 🎟️ 4 |
 
 **⚔️ More VS points = better odds!**
