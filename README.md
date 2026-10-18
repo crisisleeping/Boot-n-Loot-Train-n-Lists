@@ -1,42 +1,27 @@
-
 # 🛡️ Boot-n-Loot-Train-n-Lists
 
-**Alliance Training • Rankings • Rules**
+## 📜 Rules
 
----
+- Each player can be **Train Driver once** every 4 weeks.
+- Each player can be **VIP once** every 4 weeks.
+- If a player breaks this rule, the next eligible player takes their spot.
 
-## 📜 Alliance Rules
+## 🏆 R3 Requirements
 
-> 🚨 **Train Driver & VIP Limit**
->
-> Each player can receive **one Train Driver** and
-> **one VIP** position within a **4-week period**.
+- **Daily VS:** 7.2M minimum
+- **Weekly VS:** 43.2M minimum
 
-**Ranking Violations:** If Rule 1 is violated,
-the next eligible player in the rankings
-takes the position.
+## 🎡 VS Wheel Entries
 
----
+- Players are picked randomly by an automated wheel.
+- Your weekly VS score determines how many entries you get.
+- **More entries = better chances of winning.**
 
-## 🏆 R3 Entry Requirements
+| Weekly VS Score | Wheel Entries |
+|---|:---:|
+| 40M–50M | 🎟️ 1 |
+| 50M–70M | 🎟️ 2 |
+| 70M–90M | 🎟️ 3 |
+| 90M+ | 🎟️ 4 |
 
-| Requirement | Minimum Score |
-|:---|---:|
-| 🎯 Daily VS | **7.2M** |
-| 🏅 Weekly VS | **43.2M** |
-
----
-
-## 📊 Weekly VS Rankings
-
-| Weekly VS Score | Entries |
-|:---|:---:|
-| 43.2M–60M | 1 |
-| 60M–80M | 2 |
-| 80M–100M | 3 |
-| 90M+ | 4 |
-
----
-
-*⚔️ Stay active • Support your alliance • Train smart*
-  
+**⚔️ More VS points = better odds!**
