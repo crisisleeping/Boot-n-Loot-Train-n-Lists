@@ -60,3 +60,17 @@
   - 🚆 **Train Driver:** R4 (Rotate)
   - 👑 **VIP:** R4/R5
 
+  ## ✅ ToDo Each Week
+
+- **Saturday (Before Reset)**
+  - 📸 Screenshot of VS Points
+  - 📋 Weekly DS-MVP Lists:
+    - Team A
+    - Team B
+
+- **Sunday (After 08:00 CET)**
+  - 📸 Screenshot of Top Donators
+  - 🗳️ R4 Team votes for Deserving Players
+  - 📢 Send Alliance Announcement
+
+
