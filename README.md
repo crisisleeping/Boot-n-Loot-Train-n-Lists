@@ -1,12 +1,42 @@
-# Boot-n-Loot-Train-n-Lists
 
-## Rules
-Every player can only be once traindriver within 4 weeks and once vip within 4 weeks
-In case of ranking violate rule 1) the next person in the ranking will take the place
-Vip - Automated Python Wheel based on VS performance score. Entry requirement : R3
-Minimum requirement for R3 : Daily 7.2m in VS - Weekly 43.2m in VS
-The number of wheek entries based on VS scoring  : 
-    43.2–60M -> 1
-    60–80M  -> 2
-    80–100M -> 3
-    90M+    -> 4
+# 🛡️ Boot-n-Loot-Train-n-Lists
+
+**Alliance Training • Rankings • Rules**
+
+---
+
+## 📜 Alliance Rules
+
+> 🚨 **Train Driver & VIP Limit**
+>
+> Each player can receive **one Train Driver** and
+> **one VIP** position within a **4-week period**.
+
+**Ranking Violations:** If Rule 1 is violated,
+the next eligible player in the rankings
+takes the position.
+
+---
+
+## 🏆 R3 Entry Requirements
+
+| Requirement | Minimum Score |
+|:---|---:|
+| 🎯 Daily VS | **7.2M** |
+| 🏅 Weekly VS | **43.2M** |
+
+---
+
+## 📊 Weekly VS Rankings
+
+| Weekly VS Score | Entries |
+|:---|:---:|
+| 43.2M–60M | 1 |
+| 60M–80M | 2 |
+| 80M–100M | 3 |
+| 90M+ | 4 |
+
+---
+
+*⚔️ Stay active • Support your alliance • Train smart*
+  
