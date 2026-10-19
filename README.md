@@ -58,7 +58,7 @@
 
 - **Sunday**
   - 🚆 **Train Driver:** R4 (Rotate)
-  - 👑 **VIP:** R4/R5
+  - 👑 **VIP:** R3 Performance Wheel
 
   ## ✅ ToDo Each Week
 
