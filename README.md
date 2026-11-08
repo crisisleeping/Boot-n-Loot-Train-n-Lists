@@ -2,14 +2,19 @@
 
 ## 📜 Rules
 
-- Each player can be **Train Driver once** every 4 weeks.
-- Each player can be **VIP once** every 4 weeks.
+- Each player can be **Train Driver once** every 4 weeks(28 days).
+- Each player can be **VIP once** every 4 weeks(28 days).
 - If a player falls under the ban, the next eligible player takes their spot.
 
 ## 🏆 R3 Requirements
 
 - **Daily VS:** 7.2M minimum
-- **Weekly VS:** 43.2M minimum
+- **Weekly VS:** 60m minimum
+- A minimum of 40k weekly for tech donations
+- Shielding every buster day
+- Being able to follow directions, read announcements etc.
+- No digs or rallies during MG/DS/ZS and during wars/trade post
+- Sending UR task only
 
 ## 🎡 VIP Performance Wheel Entries
 
