@@ -11,7 +11,7 @@
 
 - **Daily VS:** 7.2M minimum
 - **Weekly VS:** 60m minimum
-- A minimum of 40k weekly for tech donations
+- A minimum of 40k weekly for tech donations - list checked and finalized at 21 CET every week
 - Shielding every buster day
 - Being able to follow directions, read announcements etc.
 - No digs or rallies during MG/DS/ZS and during wars/trade post
