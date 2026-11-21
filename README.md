@@ -79,6 +79,6 @@
   - 🗳️ R4 Team votes for Deserving Players
   - 📢 Send Alliance Announcement
 
-  **Credits and thanks to Sheri Sheri Lady for inspiring me on how to do this**
+  **Credits and thanks to Sheri Sheri Lady for inspiring me on how to do this 🦥🦥🦥🦥🦥**
 
 
